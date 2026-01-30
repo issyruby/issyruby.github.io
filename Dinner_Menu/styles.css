@@ -2,12 +2,48 @@
     color: red;
     font-weight: bold;
     font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-decoration-thickness: 2px;
+    text-decoration-skip-ink: none;
+    text-decoration-style: solid;
+    text-decoration-skip-ink: none;
+    text-decoration-thickness: 2px;
+    text-decoration-style: solid;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 .ingredients {
     color: blue;
     text-align: center;
-    font-size: 16px
+    font-size: 16px;
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-decoration-thickness: 2px;
+    text-decoration-skip-ink: none;
+    text-decoration-style: solid;
+    text-decoration-skip-ink: none;
+    text-decoration-thickness: 2px;
+    text-decoration-style: solid;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 .price {
     color: gray;
+    text-align: center;
+    font-size: 16px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-decoration-thickness: 2px;
+    text-decoration-skip-ink: none;
+    text-decoration-style: solid;
+    text-decoration-skip-ink: none;
+    text-decoration-thickness: 2px;
 }
